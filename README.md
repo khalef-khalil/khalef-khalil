@@ -76,6 +76,7 @@ hobbies: ["Coding", "Problem Solving", "Tech Innovation", "Open Source"]
 ### ⚙️ Backend & Database
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
@@ -83,10 +84,14 @@ hobbies: ["Coding", "Problem Solving", "Tech Innovation", "Open Source"]
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ### 🤖 AI & Data Science
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
 
@@ -115,42 +120,6 @@ hobbies: ["Coding", "Problem Solving", "Tech Innovation", "Open Source"]
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=khalef-khalil&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&row=1" />
-</div>
-
----
-
-## 🎯 Current Focus
-
-<div align="center">
-
-```mermaid
-graph TD
-    A[🎓 Engineering Studies] --> B[💻 Software Development]
-    B --> C[🤖 AI Integration]
-    C --> D[🚀 Scalable Solutions]
-    D --> E[🌟 Innovation]
-    
-    F[📚 Learning] --> G[⚛️ Advanced React/Next.js]
-    G --> H[🧠 Machine Learning]
-    H --> I[☁️ Cloud Technologies]
-    I --> J[🏗️ System Design]
-```
-
-</div>
-
----
-
-## 💡 What I'm Learning
-
-<div align="center">
-
-| 🔥 Currently Exploring | 🎯 Next Goals | 🌟 Dream Projects |
-|:---:|:---:|:---:|
-| Advanced TypeScript | Cloud Architecture | AI-Powered SaaS Platform |
-| System Design | DevOps & CI/CD | Open Source Contributions |
-| AI/ML Integration | Microservices | Tech Startup |
-| Performance Optimization | Mobile Development | Educational Technology |
-
 </div>
 
 ---
