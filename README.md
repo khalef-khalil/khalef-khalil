@@ -21,7 +21,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=khalef-khalil.khalef-khalil&style=flat-square&color=0088cc" />
+  <img src="https://komarev.com/ghpvc/?username=khalef-khalil&style=flat-square&color=blue" alt="Profile views" />
 </div>
 
 ---
@@ -89,44 +89,6 @@ hobbies: ["Coding", "Problem Solving", "Tech Innovation", "Open Source"]
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
-
-</div>
-
----
-
-## 🌟 Featured Projects
-
-<div align="center">
-
-### 🤖 [LearnPro AI](https://github.com/khalef-khalil/learnpro-ai)
-**AI-Powered Expert System for Students**
-> An intelligent learning companion that provides personalized recommendations, learning resources, and progress tracking. Built with Next.js and advanced AI integration.
-
-**Tech Stack:** `TypeScript` `Next.js` `AI/ML` `React`
-
----
-
-### 🌱 [AgriWaste](https://github.com/khalef-khalil/agriWaste)
-**Agricultural Waste Management Solution**
-> Innovative platform addressing agricultural waste management challenges with modern web technologies.
-
-**Tech Stack:** `TypeScript` `React` `Node.js`
-
----
-
-### 📚 [MoodHwa](https://github.com/khalef-khalil/moodhwa)
-**Mood-Based Content Recommendation**
-> A unique platform that recommends manhwas based on your current mood, creating personalized reading experiences.
-
-**Tech Stack:** `TypeScript` `React` `API Integration`
-
----
-
-### 📱 [FlStudents](https://github.com/khalef-khalil/flStudents)
-**Student Management Mobile App**
-> Flutter-based mobile application designed to streamline student management processes.
-
-**Tech Stack:** `Dart` `Flutter` `Mobile Development`
 
 </div>
 
