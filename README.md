@@ -34,8 +34,7 @@ located_in: Mauritania
 current_job: 2nd Year Engineering Student
 education: ["Software Engineering", "Computer Science"]
 fields_of_interests: ["Web Development", "AI/ML", "Data Science", "Mobile Development"]
-currently_learning: ["Advanced TypeScript", "Next.js", "AI Integration", "System Design"]
-hobbies: ["Coding", "Problem Solving", "Tech Innovation", "Open Source"]
+hobbies: ["Manga", "Gym"]
 ```
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
